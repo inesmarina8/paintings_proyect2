@@ -8,7 +8,7 @@ _It is only possible to interpret  this DataSet in so many ways as it has been c
 
 ## To begin 🚀
 
-_This project will show a process to clean and develop different hypotheses from a big Data Set with many unknow values._
+_._
 
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._

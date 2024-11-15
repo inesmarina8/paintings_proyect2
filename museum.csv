@@ -3,13 +3,13 @@ museum_id,name,address,city,state,postal,country
 31,Pushkin State Museum of Fine Arts,12 Ulitsa Volkhonka,Moscow,,119019,Russia
 32,National Gallery of Victoria,180 St Kilda Rd,Melbourne,Victoria,3004,Australia
 33,São Paulo Museum of Art,"Av. Paulista, 1578 - Bela Vista",São Paulo,,01310-200,Brazil
-34,The State Hermitage Museum,Palace Square,2,Sankt-Peterburg,190000,Russia
+34,The State Hermitage Museum,Palace Square,Moscow,Sankt-Peterburg,190000,Russia
 35,The Metropolitan Museum of Art,1000 5th Ave,New York,NY,10028,USA
-36,Museum Folkwang,Museumsplatz 1,45128,Essen,,Germany
-37,Museum of Grenoble,5 Pl. de Lavalette,38000,Grenoble,,France
-38,Musée des Beaux-Arts de Quimper,40 Pl. Saint-Corentin,29000,Quimper,,France
+36,Museum Folkwang,Museumsplatz 1,Essen,Essen,,Germany
+37,Museum of Grenoble,5 Pl. de Lavalette,Chartres,Grenoble,,France
+38,Musée des Beaux-Arts de Quimper,40 Pl. Saint-Corentin,Quimper,Quimper,,France
 39,Nelson-Atkins Museum of Art,4525 Oak St,Kansas City,MO,64111,USA
-40,Musée du Louvre,Rue de Rivoli,75001,Paris,,France
+40,Musée du Louvre,Rue de Rivoli,Paris,Paris,,France
 41,National Maritime Museum,Romney Rd,London,SE10 9NF,,United Kingdom
 42,Museum of Fine Arts Boston,465 Huntington Ave,Boston,MA,2115,USA
 43,Rijksmuseum,Museumstraat 1,Amsterdam,,1071 XX,Netherlands
@@ -43,7 +43,7 @@ museum_id,name,address,city,state,postal,country
 71,Ohara Museum of Art,1 Chome-1-15 Central,Kurashiki,Okayama,710-8575,Japan
 72,Musée Marmottan Monet,2 Rue Louis Boilly,Paris,,75016,France
 73,Walters Art Museum,600 N Charles St,Baltimore,MD,21201,USA
-74,Kröller-Müller Museum,Houtkampweg 6,6731 AW Otterlo,,,Netherlands
+74,Kröller-Müller Museum,Houtkampweg 6,Otterlo,,,Netherlands
 75,National Museum,Cathays Park,Cardiff,Wales,CF10 3NP,United Kingdom
 76,Columbus Museum of Art,480 E Broad St,Columbus,OH,43215,USA
 77,Kimbell Art Museum,3333 Camp Bowie Blvd,Fort Worth,TX,76107,USA
